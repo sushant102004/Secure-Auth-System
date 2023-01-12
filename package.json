@@ -1,0 +1,29 @@
+{
+  "name": "secure-auth-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushant102004/secure-auth-system.git"
+  },
+  "author": "Sushant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushant102004/secure-auth-system/issues"
+  },
+  "homepage": "https://github.com/sushant102004/secure-auth-system#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.3",
+    "validate.js": "^0.13.1",
+    "validator": "^13.7.0"
+  }
+}
